@@ -1,0 +1,6 @@
+
+pcsharpsquid:S3903"-Move 'PlayerMovement' into a named namespace.(É»áJ$7f75f4df-eb12-4e93-bf07-52a2556463cf
+”csharpsquid:S1244"LDo not check floating point equality with exact values, use a range instead.(³Ø½ŠøÿÿÿÿJ$e76fe91c-ae63-4896-b278-d7596a1f28ba
+csharpsquid:S12448"NDo not check floating point inequality with exact values, use a range instead.(Ï·ßJ$0c684ec0-c063-44bf-a841-2177ae410665
+”csharpsquid:S1244W"LDo not check floating point equality with exact values, use a range instead.(¼´»¹şÿÿÿÿJ$8de603de-d226-4f75-95a3-ef88de3a1b8f
+fcsharpsquid:S125*"Remove this commented out code.(Ó³†ìşÿÿÿÿJ$72d05b47-70e8-4581-ae8e-137471916b93
